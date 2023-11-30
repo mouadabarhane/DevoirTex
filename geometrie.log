@@ -1,0 +1,596 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.27)  30 NOV 2023 21:07
+entering extended mode
+**./geometrie.tex
+(geometrie.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Program Files\MiKTeX\tex/latex/exam\exam.cls
+Document Class: exam 2021/02/26 Version 2.7 by Philip Hirschhorn
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+\@extrawidth=\skip49
+\@rightmargin=\skip50
+\@extrahead=\skip51
+\@extrafoot=\skip52
+\run@exhd=\skip53
+\fp@exhd=\skip54
+\run@exft=\skip55
+\fp@exft=\skip56
+\covrun@exhd=\skip57
+\covfp@exhd=\skip58
+\covrun@exft=\skip59
+\covfp@exft=\skip60
+\c@num@coverpages=\count190
+\c@latest@ques=\count191
+\c@ques@end=\count192
+\c@last@object=\count193
+\c@incmp@ques=\count194
+\c@next@ques=\count195
+\c@next@page=\count196
+\c@tmp@hlfcntr=\count197
+\c@ifpos@cntr=\count198
+\c@question=\count199
+\c@partno=\count266
+\c@subpart=\count267
+\c@subsubpart=\count268
+\c@choice=\count269
+\c@numpoints=\count270
+\c@numbonuspoints=\count271
+\c@pointsof@thisquestion=\count272
+\c@bonuspointsof@thisquestion=\count273
+\c@numquestions=\count274
+\c@numparts=\count275
+\c@numsubparts=\count276
+\c@numsubsubparts=\count277
+\c@Curr@Page=\count278
+\c@@pagepoints=\count279
+\c@@pagebonuspoints=\count280
+\c@pageof@pagepoints=\count281
+\c@pageof@pagebonuspoints=\count282
+\c@latest@points=\count283
+\c@latest@bonuspoints=\count284
+\pageinfo@commands=\toks16
+\temp@toks=\toks17
+\pagepoint@commands=\toks18
+\point@toks=\toks19
+\c@ques@object=\count285
+\marginpointssep=\skip61
+\rightpointsmargin=\skip62
+\choice@toks=\toks20
+\answerlinelength=\skip63
+\answerskip=\skip64
+\answerclearance=\skip65
+\fillinlinelength=\skip66
+\linefillheight=\skip67
+\linefillthickness=\skip68
+\dottedlinefillheight=\skip69
+\gridsize=\skip70
+\gridlinewidth=\skip71
+\minboxheight=\skip72
+\c@@iterator=\count286
+\@cellwidth=\skip73
+\c@tbl@points=\count287
+\c@tbl@bonuspoints=\count288
+\c@pq@index=\count289
+\c@pq@index@pts=\count290
+\c@pq@index@bpts=\count291
+\c@num@cols=\count292
+\c@num@rows=\count293
+\c@current@row=\count294
+\c@cols@done=\count295
+\exam@box=\box50
+\saved@totalleftmargin=\dimen139
+\@sollistdepth=\count296
+\exam@FrameRule=\dimen140
+\exam@FrameSep=\dimen141
+)
+(C:\Program Files\MiKTeX\tex/latex/bclogo\bclogo.sty
+Package: bclogo 2016/01/10 v3.1
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count297
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+\bc@invboxh=\skip74
+\bc@invboxd=\skip75
+\bc@titleLength=\skip76
+\logowidth=\skip77
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen144
+\pgfutil@tempdimb=\dimen145
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box51
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
+\pgf@xd=\dimen154
+\pgf@yd=\dimen155
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count302
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen156
+\pgfmath@count=\count305
+\pgfmath@box=\box52
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count306
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count307
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen175
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen179
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count308
+\pgf@shadingcount=\count309
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box56
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box57
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count310
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikz@lastmovetox=\dimen190
+\tikz@lastmovetoy=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count311
+\tikznumberofchildren=\count312
+\tikznumberofcurrentchild=\count313
+\tikz@fig@count=\count314
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count315
+\pgfmatrixcurrentcolumn=\count316
+\pgf@matrix@numberofcolumns=\count317
+)
+\tikz@expandcount=\count318
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Program Files\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box62
+))
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count320
+)
+(C:\Program Files\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count321
+Package zref Info: New property: abspage on input line 66.
+)
+(C:\Program Files\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip78
+\c@mdf@globalstyle@cnt=\count322
+\mdf@skipabove@length=\skip79
+\mdf@skipbelow@length=\skip80
+\mdf@leftmargin@length=\skip81
+\mdf@rightmargin@length=\skip82
+\mdf@innerleftmargin@length=\skip83
+\mdf@innerrightmargin@length=\skip84
+\mdf@innertopmargin@length=\skip85
+\mdf@innerbottommargin@length=\skip86
+\mdf@splittopskip@length=\skip87
+\mdf@splitbottomskip@length=\skip88
+\mdf@outermargin@length=\skip89
+\mdf@innermargin@length=\skip90
+\mdf@linewidth@length=\skip91
+\mdf@innerlinewidth@length=\skip92
+\mdf@middlelinewidth@length=\skip93
+\mdf@outerlinewidth@length=\skip94
+\mdf@roundcorner@length=\skip95
+\mdf@footenotedistance@length=\skip96
+\mdf@userdefinedwidth@length=\skip97
+\mdf@needspace@length=\skip98
+\mdf@frametitleaboveskip@length=\skip99
+\mdf@frametitlebelowskip@length=\skip100
+\mdf@frametitlerulewidth@length=\skip101
+\mdf@frametitleleftmargin@length=\skip102
+\mdf@frametitlerightmargin@length=\skip103
+\mdf@shadowsize@length=\skip104
+\mdf@extratopheight@length=\skip105
+\mdf@subtitleabovelinewidth@length=\skip106
+\mdf@subtitlebelowlinewidth@length=\skip107
+\mdf@subtitleaboveskip@length=\skip108
+\mdf@subtitlebelowskip@length=\skip109
+\mdf@subtitleinneraboveskip@length=\skip110
+\mdf@subtitleinnerbelowskip@length=\skip111
+\mdf@subsubtitleabovelinewidth@length=\skip112
+\mdf@subsubtitlebelowlinewidth@length=\skip113
+\mdf@subsubtitleaboveskip@length=\skip114
+\mdf@subsubtitlebelowskip@length=\skip115
+\mdf@subsubtitleinneraboveskip@length=\skip116
+\mdf@subsubtitleinnerbelowskip@length=\skip117
+
+(C:\Program Files\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box63
+\mdf@footnotebox=\box64
+\mdf@splitbox@one=\box65
+\mdf@splitbox@two=\box66
+\mdf@splitbox@save=\box67
+\mdfsplitboxwidth=\skip118
+\mdfsplitboxtotalwidth=\skip119
+\mdfsplitboxheight=\skip120
+\mdfsplitboxdepth=\skip121
+\mdfsplitboxtotalheight=\skip122
+\mdfframetitleboxwidth=\skip123
+\mdfframetitleboxtotalwidth=\skip124
+\mdfframetitleboxheight=\skip125
+\mdfframetitleboxdepth=\skip126
+\mdfframetitleboxtotalheight=\skip127
+\mdffootnoteboxwidth=\skip128
+\mdffootnoteboxtotalwidth=\skip129
+\mdffootnoteboxheight=\skip130
+\mdffootnoteboxdepth=\skip131
+\mdffootnoteboxtotalheight=\skip132
+\mdftotallinewidth=\skip133
+\mdfboundingboxwidth=\skip134
+\mdfboundingboxtotalwidth=\skip135
+\mdfboundingboxheight=\skip136
+\mdfboundingboxdepth=\skip137
+\mdfboundingboxtotalheight=\skip138
+\mdf@freevspace@length=\skip139
+\mdf@horizontalwidthofbox@length=\skip140
+\mdf@verticalmarginwhole@length=\skip141
+\mdf@horizontalspaceofbox=\skip142
+\mdfsubtitleheight=\skip143
+\mdfsubsubtitleheight=\skip144
+\c@mdfcountframes=\count323
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count324
+\c@mdf@env@i=\count325
+\c@mdf@env@ii=\count326
+\c@mdf@zref@counter=\count327
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+! I can't write on file `geometrie.pdf'.
+Please type another file name for output
+! Emergency stop.
+\pgfsys@horishading ...e] >> >>}\pgfutil@tempboxa 
+                                                  \xdef \pgfutil@tempa {\hbo...
+l.17 ...t!100); color(100bp)=(pgftransparent!100)}
+                                                  %
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 14136 strings out of 478927
+ 281430 string characters out of 2862391
+ 584776 words of memory out of 3000000
+ 31751 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,1n,108p,516b,141s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
